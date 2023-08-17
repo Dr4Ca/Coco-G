@@ -36,14 +36,4 @@ if uraian:
         st.subheader("Uraian Volume:")
         st.write(f"Untuk menghitung volum kubus, diketahui = {sisi}")
         st.write("Rumus volum adalah sisi * sisi * sisi")
-        st.write(f"Jadi, hasil keliling kubus = {sisi} * {sisi} * {sisi} = {hasil}.")
-
-#sisi = st.number_input("Masukan Panjang Sisi:")
-#k = 12 * sisi
-#st.subheader(k)
-#st.header("LUAS")
-#l = 6 * sisi
-#st.subheader(l)
-#st.subheader("VOLUME")
-#v = sisi * sisi * sisi
-#st.subheader(v)
+        st.write(f"Jadi, hasil keliling kubus = {sisi}**3 = {hasil}.")
