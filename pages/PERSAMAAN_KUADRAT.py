@@ -35,3 +35,11 @@ elif function_choice == "Nilai Optimum":
     noc = st.number_input("Masukkan Nilai c", value=0)
     nod = (-(nob ** 2 - 4 * noa * noc)) / (4 * noa)
     st.subheader(f"Nilai Optimum adalah: {nod}")
+
+uraian = st.checkbox("Tampilkan hasil uraian")
+
+if uraian:
+    if function_choice == "Diskriminan":
+        hasil = dd
+        st.subheader("Uraian Diskriminan")
+        st.write("Untuk menghitung diskriminan, maka menggunakan format (b² - 4ac)")
