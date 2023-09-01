@@ -9,6 +9,6 @@ if selected_operation == "Keliling":
     keliling = sisi**2
     st.subheader(keliling)
 elif selected_operation == "Luas":
-    sisi = st.humber_input("Masukan Nilai sisi:")
+    sisi = st.number_input("Masukan Nilai sisi:")
     luas = 4 * sisi
     st.subheader(luas)
