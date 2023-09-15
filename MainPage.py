@@ -18,10 +18,10 @@ st.markdown("""
     - M. Delpiero
     - M. Afik
     - Rafikah Ilham
-    ### Nothing
+    ### SMA PERMATA INSANI ISLAMIC SCHOOL
     """)
 
-st.subheader("SMA PERMATA INSANI ISLAMIC SCHOOL")
+st.image('https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.permatainsaniislamicschool.sch.id%2Fgallery_gen%2F438b7df017e009e8be6fa7a9adbf874e_654x372.984375.png&tbnid=vm8xc83LebQ6YM&vet=12ahUKEwj_5uu02quBAxWd2zgGHcE_CpoQMygAegQIARBX..i&imgrefurl=https%3A%2F%2Fwww.permatainsaniislamicschool.sch.id%2F&docid=L3VHsomLwPogtM&w=654&h=371&q=logo%20permata%20insani%20islamic%20school&ved=2ahUKEwj_5uu02quBAxWd2zgGHcE_CpoQMygAegQIARBX')
 
 st.subheader(":mailbox: Gak nemu rumus? Bilang aja!")
 st.write("Website ini masih sepenuhnya dalam pengembangan, jika ada bug atau kesalahan, bisa kontak developer lewat form dibawah👇")
