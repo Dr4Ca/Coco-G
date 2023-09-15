@@ -21,7 +21,7 @@ st.markdown("""
     ### Nothing
     """)
 
-    
+st.subheader("SMA PERMATA INSANI ISLAMIC SCHOOL")
 
 st.subheader(":mailbox: Gak nemu rumus? Bilang aja!")
 st.write("Website ini masih sepenuhnya dalam pengembangan, jika ada bug atau kesalahan, bisa kontak developer lewat form dibawah👇")
